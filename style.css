@@ -1,0 +1,20 @@
+body{
+    background-color: greenyellow;
+}
+h1{
+  background-color:antiquewhite;  
+}
+h2{
+    background-color:blueviolet;
+}
+h3{
+    background-color:chocolate;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-size: 20px;
+}
