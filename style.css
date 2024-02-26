@@ -1,20 +1,9 @@
-body{
-    background-color: greenyellow;
+.center{
+    text-align: center;
 }
-h1{
-  background-color:antiquewhite;  
+.blue{
+    color: blue;
 }
-h2{
-    background-color:blueviolet;
-}
-h3{
-    background-color:chocolate;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6{
-    font-size: 20px;
+.yellow{
+    color: #ffa400;
 }
